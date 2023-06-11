@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### 📮: Althealam0531@gmail.com
+#### 🏫: WuHan University,CHINA
+
 #### Here is my overview data 😍
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Althealam&show_icons=true&theme=dark&count_private=true)
 
