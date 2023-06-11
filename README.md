@@ -1,6 +1,8 @@
 ### Hi there 👋
-#### 📮: Althealam0531@gmail.com
-#### 🏫: WuHan University,CHINA
+#### Welcome to my homepage! 😎
+#### I'm diligently studying the knowledge about data science and machine learning. 🤩
+#### My homepage documents the progress I make along my learning journey. 📝
+#### If you find any issues with my code, please feel free to point them out. 🔎
 
 #### Here is my overview data 😍
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Althealam&show_icons=true&theme=dark&count_private=true)
