@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**Althealam/Althealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate data scientist focused on NLP, algorithms, and binary classification problems. I enjoy using data to solve real-world issues.
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/kahei-lam) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)
+- [Email](althealam0531@gmail.com) ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)
+
+## 🛠️ Skills
+- Python
+- TensorFlow
+- Keras
+- PyTorch
+- Machine Learning
+- Data Analysis
+
+## 🌱 Currently Learning
+- Advanced Deep Learning Techniques
+- Reinforcement Learning
+
+Feel free to explore my repositories, and don’t hesitate to reach out!
