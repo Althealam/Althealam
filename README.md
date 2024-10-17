@@ -11,7 +11,7 @@
 <h3 font-size="20" align="center">A passionate data science student.</h3>
 
 - 💻 I’m currently learning **NLP and Recommendation Algorithms** <img align="right" style="width:16rem; height:auto" src="https://github.com/alishhde/Alishhde/blob/main/resources/img/geek.gif"/>
-- 👨‍💻 All of my projects are available [@Kahei Lam](https://github.com/kahei-lam) and my CV [Website](https://your-website-link.com)
+- 👨‍💻 All of my projects are available [@Kahei Lam](https://github.com/Althealam) and my CV [Website](https://althealam.github.io/)
 
 - 🌱 I teach Python, Machine Learning, and Data Analysis.
 
