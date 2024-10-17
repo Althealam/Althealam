@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist focused on NLP, al
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kahei-lam) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)
-- [Email](althealam0531@gmail.com) ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)
+- [Email](mailto:althealam0531@gmail.com) ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)
 
 ## 🛠️ Skills
 - Python
