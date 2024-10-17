@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Althea Lam!
 
 Welcome to my GitHub profile! I'm a passionate data scientist focused on NLP, algorithms, and binary classification problems. I enjoy using data to solve real-world issues.
 
