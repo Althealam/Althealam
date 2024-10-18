@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **althealam0531@gmail.com**
 
-- 📄 Know about my experiences [Althea's Resume](https://althealam.github.io/).
+- 📄 Know about my experiences [Althea's Website](https://althealam.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
