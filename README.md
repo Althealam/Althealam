@@ -12,5 +12,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/kahei-lam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imen-bakir" height="30" width="40" /></a>
 <a href="https://kaggle.com/althealam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imenbakir" height="30" width="40" /></a>
-<a href="https://leetcode.com/althealam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faith9916" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/althealam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faith9916" height="30" width="40" /></a>
 </p>
